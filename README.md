@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PapaDaCodr
 - 👀 I’m interested in ... JAva and Python projects
 - 🌱 I’m currently learning Computer Science 
-- 💞️ I’m looking to collaborate on ... any web and app developments and Machine Learning projects 
+- 💞️ I’m looking to collaborate on ... any web and mobile app projects 
 - 📫 How to reach me ... dukeoriginal6@gmail.com
 
 <!---
