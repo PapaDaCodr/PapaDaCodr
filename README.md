@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a software engineer with a passion for crafting elegant solutions in Java, Python, and JavaScript. With above-average proficiency in these languages and a sprinkle of Dart and Flutter knowledge, I'm always on the lookout for opportunities to enhance my skills and tackle new challenges. 
+I'm a software engineer with a passion for providing solutions in Java, Python, and JavaScript. With above-average proficiency in these languages and a sprinkle of Dart and Flutter knowledge, I'm always on the lookout for opportunities to enhance my skills and tackle new challenges. 
 
 ### 🌱 Always Learning
 
@@ -10,14 +10,13 @@ I'm an avid learner, constantly seeking to broaden my horizons. Whether it's del
 
 ## ⚡ Fun Facts
 
-- 🏈 Football and 🏀 basketball enthusiast.
 - 📚 I find joy in the journey of learning new things.
 - 🤖 Fascinated by AI and its potential to shape the future.
 
 ## 💻 Tech Stack
 
 - **Languages**: Java, Python, JavaScript
-- **Frameworks**: Django, React-Native, Flask, React, Flutter
+- **Frameworks**: Django, React-Native, React
 - **Tools**: Git, 
 
 
