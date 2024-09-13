@@ -1,40 +1,36 @@
-# Hi there! 👋 My name is Osei but you can call me Duke
+# Hi, I'm Duke 👋
 
-## 🚀 About Me
+I'm a Full-Stack Developer with a passion for creating innovative solutions.
 
-I'm a software engineer with a passion for providing solutions in Java, Python, and JavaScript. With above-average proficiency in these languages and a sprinkle of Dart and Flutter knowledge, I'm always on the lookout for opportunities to enhance my skills and tackle new challenges. 
+## About Me
 
-### 🌱 Always Learning
-
-I'm an avid learner, constantly seeking to broaden my horizons. Whether it's delving into the latest AI advancements or staying abreast of current tech trends, I'm eager to explore and expand my knowledge.
-
-## ⚡ Fun Facts
-
-- 📚 I find joy in the journey of learning new things.
-- 🤖 Fascinated by AI and its potential to shape the future.
-
-## 💻 Tech Stack
-
-- **Languages**: Java, Python, JavaScript
-- **Frameworks**: Django, React-Native, React
-- **Tools**: Git, 
+- 🔭 I'm currently working on quiz applications and pharmacy management systems
+- 🌱 I'm learning more about TypeScript, React, and Data Structures & Algorithms
+- 🎯 2025 Goals: Contribute more to Open Source projects and expand my knowledge in Computer Vison 
+- ⚡ Fun fact: I enjoy exploring new technologies
 
 
 
-## 📫 Let's Connect
+## Languages and Tools:
 
-Reach out to me via email or connect on social media:
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40"/>
 
-- Email: dukeoriginal6@gmail.com
-- Telegram: https://t.me/DukeOg22
+## Featured Projects
 
-## 🏆 Badges
+### Quizard
+A TypeScript-based quiz application.
 
-Show off your achievements with badges:
+### DigiPharma-Systems
+A Java-based pharmacy management system for local pharmacies.
 
-- [![Java](https://img.shields.io/badge/Java-Above_Average-yellow)](link)
-- [![Python](https://img.shields.io/badge/Python-Expert-blue)](link)
-- [![JavaScript](https://img.shields.io/badge/JavaScript-Above_Average-yellow)](link)
+### Data-Analysis-and-Visualization
+Python scripts for data analysis and visualization tasks.
 
+## GitHub Stats
 
+![PapaDaCodr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PapaDaCodr&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PapaDaCodr&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PapaDaCodr&theme=radical)](https://git.io/streak-stats)
 
