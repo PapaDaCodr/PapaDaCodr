@@ -4,7 +4,6 @@ I'm a Full-Stack Developer with a passion for creating innovative solutions.
 
 ## About Me
 
-- 🔭 I'm currently working on quiz applications and pharmacy management systems
 - 🌱 I'm learning more about TypeScript, React, and Data Structures & Algorithms
 - 🎯 2025 Goals: Contribute more to Open Source projects and expand my knowledge in Computer Vison 
 - ⚡ Fun fact: I enjoy exploring new technologies
