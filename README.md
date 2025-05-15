@@ -17,7 +17,7 @@
 
 - 🔭 **Currently Working On**:  
   - Building robust, scalable, and interactive web and mobile applications.  
-  - Exploring [React Native](https://reactnative.dev/) and AI/ML projects.  
+  - Exploring [React Native](https://reactnative.dev/)  
 
 - 👯 **Looking to Collaborate On**:  
   - Open-source projects in JavaScript, Java, Python, or AI.  
