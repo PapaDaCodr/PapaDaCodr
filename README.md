@@ -20,7 +20,7 @@
   - Exploring [React Native](https://reactnative.dev/)  
 
 - 👯 **Looking to Collaborate On**:  
-  - Open-source projects in JavaScript, Java, Python, or AI.  
+  - Open-source projects in JavaScript, Python, or AI.  
   - Innovative tech solutions that make an impact.  
 
 - 🌱 **Currently Learning**:  
