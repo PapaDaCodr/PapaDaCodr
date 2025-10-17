@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=7000&color=blue&lines=Hey+there+👋,+I'm+Osei;Welcome+to+my+GitHub+space!+🚀">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=7000&color=blue&lines=Hey+there+👋;Welcome+to+my+GitHub+space!+🚀">
 </h1>
 
 
