@@ -156,48 +156,7 @@ Look, I  ~love~ *have* to learn because the void of not knowing things is genuin
 
 </div>
 
-<details>
-<summary>⚙️ Snake Setup — click to expand</summary>
 
-**Step 1:** Your profile repo must be named exactly `papadacodr`
-
-**Step 2:** Go to **Settings → Actions → General → Workflow permissions** → set to **"Read and write permissions"**
-
-**Step 3:** Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: papadacodr
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 4:** Go to the **Actions tab** and manually trigger the workflow once. After it runs, the snake will appear!
-
-</details>
 
 ---
 
@@ -205,12 +164,9 @@ jobs:
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/papadacodr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/papadacodr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/papadacodr22)
 [![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=lichess&logoColor=white)](https://chess.com/member/papadacodr)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/papadacodr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://papadacodr.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dukeoriginal@6@email.com)
 
 </div>
 
