@@ -35,7 +35,6 @@ const papadacodr = {
 
 ## ❤️ What I Love
 
----
 
 ### ⚽ Football — The Beautiful (Painful) Game
 
@@ -144,8 +143,6 @@ Look, I  ~love~ *have* to learn because the void of not knowing things is genuin
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
@@ -174,7 +171,7 @@ Look, I  ~love~ *have* to learn because the void of not knowing things is genuin
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Keep+Shipping+%F0%9F%94%A5&fontSize=28&fontColor=a78bfa&fontAlignY=65&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Hit+me+up+and+let's+build+something+LEGEND....+wait+for+it+...DARY+LEGENDARY+-Barney+Stinson+%F0%9F%94%A5&fontSize=16&fontColor=a78bfa&fontAlignY=65)
 
 
 
