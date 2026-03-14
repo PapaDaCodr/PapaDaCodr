@@ -172,6 +172,7 @@ Look, I  ~love~ *have* to learn because the void of not knowing things is genuin
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Hit+me+up+and+let's+build+something+LEGEND....+wait+for+it+...DARY+LEGENDARY+-Barney+Stinson+%F0%9F%94%A5&fontSize=16&fontColor=a78bfa&fontAlignY=65)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJlZW8wcjA3NG9xN281eWJvbmdjZ3BieXpibDQwZm40eWF0cjYxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12slK3kRc9ps08/giphy.gif" width="320" alt="Barney stinson"/>
 
 
 
